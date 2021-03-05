@@ -1,0 +1,8 @@
+making pancakes
+
+
+git add . 
+
+goos to add to current directory
+
+
